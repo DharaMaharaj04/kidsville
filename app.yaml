@@ -1,5 +1,5 @@
 runtime: nodejs10
-service: scriptics-react
+service: kidsville-react
 
 handlers:
   - url: /static
